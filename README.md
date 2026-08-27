@@ -1,225 +1,280 @@
-# 👋 Welcome to Unbounded Thinkers
+<!-- ===================== HEADER ===================== -->
 
-### Building practical software with Java, Spring Boot & modern backend technologies.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:06B6D4&text=UNBOUNDED%20THINKERS&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Think%20%E2%80%A2%20Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Evolve&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+</p>
 
-We are **Unbounded Thinkers** — a software development initiative focused on designing and building practical, scalable, and technology-driven applications.
+<!-- ===================== TYPING ===================== -->
 
-Our work focuses on **backend engineering, REST APIs, database-driven applications, system architecture, and full-stack product development**.
-
----
-
-## 🚀 Featured Project
-
-### 🏍️ RideSplit
-
-**In-City Bike Pooling & Fuel-Cost Sharing Platform**
-
-RideSplit is a bike/scooter pooling platform designed to connect people travelling along similar routes and allow them to share fuel costs.
-
-The platform focuses on:
-
-* 🔐 Secure user authentication & identity verification
-* 🏍️ Rider and Pillion user roles
-* 📍 Route-aware ride matching
-* 📅 Ride posting and booking
-* 💰 Fuel-cost sharing
-* 🆘 Emergency SOS & safety features
-* 📡 Live ride tracking
-* 💳 UPI-based payment integration
-* ⭐ Two-way ratings and reviews
-* 💬 In-app communication
-* 🛡️ Admin and safety monitoring
-
-**Current backend foundation:** Java + Spring Boot + JPA/Hibernate + MySQL
-
-> 🚧 RideSplit is actively being developed. Features are being implemented incrementally from the system architecture and product specification.
+<p align="center">
+  <a href="https://github.com/unboundedthinkers2026-web">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Development+%7C+Backend+Engineering;Java+%7C+Spring+Boot+%7C+MySQL;REST+APIs+%7C+Security+%7C+System+Design;Learning+%E2%80%A2+Building+%E2%80%A2+Experimenting+%E2%80%A2+Growing" alt="Typing animation"/>
+  </a>
+</p>
 
 ---
 
-## 🧠 What We Build
+## 👋 About Us
 
-```text
-Backend Engineering
-        │
-        ├── RESTful APIs
-        ├── Authentication & Authorization
-        ├── Business Logic
-        ├── Database Architecture
-        └── System Integration
-                 │
-                 ▼
-        Scalable Applications
-                 │
-        ├── Web Applications
-        ├── Mobile Applications
-        ├── Real-Time Systems
-        └── Data-Driven Platforms
-```
+**Unbounded Thinkers** is a technology-focused developer community built around:
+
+> 💡 **Ideas → Learning → Engineering → Innovation**
+
+We explore modern technologies, develop practical software, experiment with different approaches, and continuously improve our engineering skills through hands-on development.
+
+We believe that **curiosity has no boundaries and learning should never stop.**
+
+---
+
+## ⚡ What We Do
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 💻
+
+**Develop**
+
+Building practical and maintainable software.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**Learn**
+
+Exploring modern technologies and engineering practices.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧪
+
+**Experiment**
+
+Testing ideas, tools, frameworks and architectures.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**Improve**
+
+Continuously optimizing our skills and solutions.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Technology Stack
 
-### Backend
+### ☕ Backend & Java Ecosystem
 
-* ☕ Java
-* 🌱 Spring Boot
-* 🔐 Spring Security
-* 🗄️ Spring Data JPA
-* 🔄 Hibernate
-* 🌐 REST APIs
-* 🔑 JWT Authentication
-* 📡 WebSocket
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate&theme=dark" />
+</p>
 
-### Database & Data
+**Java • Spring Boot • Spring Security • Spring Data JPA • Hibernate • Maven • REST APIs • JWT • WebSocket**
 
-* 🐬 MySQL
-* ⚡ Redis
-* 🧩 Relational Database Design
-* 📊 Database Schema & ER Modeling
+### 🗄️ Databases & Data
 
-### Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark" />
+</p>
 
-* Git
-* GitHub
-* Eclipse
-* Visual Studio Code
-* Postman
-* Maven
+**MySQL • SQL • Database Design • Relational Modeling • Entity Relationship Design • Redis**
 
-### Frontend & Application Development
+### 🌐 Frontend & Application Development
 
-* HTML
-* CSS
-* JavaScript
-* React
-* React Native
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+</p>
+
+**HTML5 • CSS3 • JavaScript • React • React Native**
+
+### 🔧 Development & API Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,postman&theme=dark" />
+</p>
+
+**Git • GitHub • VS Code • Eclipse • IntelliJ IDEA • Postman • Swagger / OpenAPI**
 
 ---
 
-## 🏗️ Engineering Focus
-
-We are particularly interested in:
-
-* Backend development
-* REST API design
-* Spring Boot applications
-* Database architecture
-* Authentication & authorization
-* Real-time communication
-* Location-based applications
-* System architecture
-* API integration
-* Application security
-* Scalable software design
-
----
-
-## 📐 Development Philosophy
-
-> **Think beyond the code. Build beyond the idea.**
-
-Our approach is centered around:
-
-**01 — Understand**
-Understand the problem before writing the solution.
-
-**02 — Design**
-Create a clear architecture, data model, and API contract.
-
-**03 — Build**
-Develop clean, maintainable, and testable software.
-
-**04 — Secure**
-Treat authentication, authorization, privacy, and safety as core features.
-
-**05 — Improve**
-Continuously refactor, test, document, and improve the system.
-
----
-
-## 📂 Repository Standards
-
-Our repositories aim to follow a consistent engineering structure:
+## 🎯 Areas We Explore
 
 ```text
-Project
-├── Documentation
-├── Source Code
-├── Database
-├── API Documentation
-├── Configuration
-├── Tests
-└── README
+             ┌─────────────────────┐
+             │  SOFTWARE ENGINEERING │
+             └──────────┬──────────┘
+                        │
+       ┌────────────────┼────────────────┐
+       ▼                ▼                ▼
+   BACKEND            DATA            SECURITY
+       │                │                │
+       ▼                ▼                ▼
+   REST APIs          MySQL          Authentication
+   Spring Boot        Redis          Authorization
+   Java               SQL            Secure APIs
+       │                │                │
+       └────────────────┼────────────────┘
+                        ▼
+               SYSTEM ARCHITECTURE
+                        │
+                        ▼
+                SCALABLE SOFTWARE
 ```
 
-Each project is documented with an emphasis on:
+Our areas of interest include:
 
-* Clear project purpose
-* Architecture
-* Technology stack
-* Database design
-* API documentation
-* Setup instructions
-* Development status
-* Roadmap
-* Future improvements
+* ☕ Backend Engineering
+* 🌱 Spring Boot Development
+* 🔌 REST API Development
+* 🗄️ Database Engineering
+* 🔐 Application Security
+* 🏗️ System Architecture
+* ⚡ Real-Time Applications
+* ☁️ Cloud & Deployment
+* 🤖 AI-Assisted Development
+* 🧩 Full-Stack Development
+* 🧪 Testing & Quality
+* 🌍 Open-Source Technologies
 
 ---
 
-## 🌱 Currently Building
+## 🧠 Engineering Principles
 
-### RideSplit
+| Principle                     | What it means                                           |
+| ----------------------------- | ------------------------------------------------------- |
+| 🧹 **Clean Code**             | Readable, maintainable and understandable software      |
+| 🔐 **Security First**         | Security is part of development, not an afterthought    |
+| 🏗️ **Strong Foundations**    | Good architecture and database design before complexity |
+| 🧪 **Experimentation**        | Learn by building, testing and breaking things          |
+| 📚 **Documentation**          | Make technical knowledge easier to understand and reuse |
+| 🔄 **Continuous Improvement** | Refactor, optimize and learn continuously               |
+| 🌱 **Scalability**            | Build with future growth and change in mind             |
 
-`Spring Boot` · `Java` · `MySQL` · `JPA/Hibernate` · `REST API`
+---
 
-A portfolio-grade bike-pooling platform focused on route matching, cost sharing, safety, and real-time ride management.
+## 🌱 Currently Exploring
 
-### 🔮 Exploring
+<p align="center">
 
-* Advanced Spring Boot architecture
-* Secure API development
-* Route and location-based matching
-* Redis caching
-* WebSocket-based real-time systems
-* Payment gateway integration
-* Cloud deployment
-* Scalable backend architecture
+<img src="https://img.shields.io/badge/Java-17%2B-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-8.x-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/REST-APIs-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebSocket-Real--Time-4B5563?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System-Design-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-Technology-0EA5E9?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🚀 Our Development Journey
+
+```text
+                    💡 IDEA
+                      │
+                      ▼
+                 🔍 EXPLORE
+                      │
+                      ▼
+                  🧠 LEARN
+                      │
+                      ▼
+                 🛠️ BUILD
+                      │
+                      ▼
+                 🧪 TEST
+                      │
+                      ▼
+                 🔐 SECURE
+                      │
+                      ▼
+                📦 DEPLOY
+                      │
+                      ▼
+                 📈 IMPROVE
+                      │
+                      └──────────────► 🔄
+```
 
 ---
 
 ## 🤝 Collaboration
 
-We are open to learning, building, and collaborating on projects involving:
+We're interested in connecting with developers, engineers, learners and technology enthusiasts interested in:
 
-**Java • Spring Boot • Backend Development • REST APIs • MySQL • Full-Stack Applications • System Design**
+**Java • Spring Boot • Backend Development • REST APIs • MySQL • System Design • Full-Stack Development • Open Source**
 
-If you are building something interesting, feel free to connect and explore possibilities together.
-
----
-
-## 📊 GitHub
-
-```text
-┌──────────────────────────────────────────────┐
-│              UNBOUNDED THINKERS              │
-│                                              │
-│   Learn  →  Build  →  Test  →  Improve       │
-│                                              │
-│        Turning ideas into software.          │
-└──────────────────────────────────────────────┘
-```
+Whether you're working on an interesting idea, learning a new technology, solving a technical problem, or contributing to open source — **let's learn and build together.**
 
 ---
 
-### 💡 Our Principle
+## 🌍 Our Vision
 
-**"Build solutions that are useful, understandable, secure, and built to grow."**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Think+without+limits.;Learn+without+boundaries.;Build+with+purpose.;Grow+through+technology." />
+</p>
+
+> **Technology has no boundaries. Neither should learning.**
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=unboundedthinkers2026-web&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unboundedthinkers2026-web&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unboundedthinkers2026-web&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🐍 Contribution Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+</p>
+
+---
+
+## 💬 Let's Build Something Interesting
+
+<p align="center">
+
+<a href="https://github.com/unboundedthinkers2026-web">
+<img src="https://img.shields.io/badge/GitHub-Unbounded%20Thinkers-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+<p align="center">
+  <strong>Think 💡 • Build 🛠️ • Learn 🧠 • Evolve 🚀</strong>
+</p>
 
 ---
 
 <p align="center">
-  <strong>Unbounded Thinkers</strong>
-  <br>
-  Engineering ideas into real-world software.
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:2563EB,100:0F172A&animation=fadeIn"/>
 </p>
